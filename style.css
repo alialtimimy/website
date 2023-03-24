@@ -86,6 +86,10 @@ nav img{
 }
 .circular-image {
     border-radius: 50%;
+    position: relative;
+    right: 20px;
+    top: 100px;
+
   }
   
 .text-box p{
